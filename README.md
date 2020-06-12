@@ -1,4 +1,4 @@
-# Arduino_IoT_Cloud-BasicEnvironmentMonitor
+# Arduino IoT Cloud - Basic Environment Monitor
 Arduino IoT Cloud Sketch - Arduino MKR WIFI 1010 - SSD1306 - DHT22 - BMP280
 
 This is a basic example of an IoT connected environment monitor system.
@@ -15,3 +15,4 @@ This is a basic example of an IoT connected environment monitor system.
   - Displays the sensor data on the display module<br>
   - Sends the data to the Arduino IoT Service to be viewed in the Cloud IoT Dashboard<br>
   
+  <img src="https://i.imgur.com/QJKoRGi.png" width="500px" height="auto">
